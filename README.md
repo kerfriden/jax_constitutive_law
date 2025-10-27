@@ -1,6 +1,4 @@
-# JAX for Constitutive Laws — User Guide
-
-*This is a Colab-friendly Markdown document. Equations are delimited by `$$`.*
+# JAX for Constitutive Laws — User Guide (AI-generated)
 
 ---
 
